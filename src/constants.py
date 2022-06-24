@@ -1,0 +1,32 @@
+# Pyxel config
+FPS = 60
+SHOW_CURSOR = False
+WIDTH = 160
+HEIGHT = 120
+MID_W = WIDTH / 2
+MID_H = HEIGHT / 2
+SCORE_FILE = "lastspacefighter_scores.dat"
+
+
+# colors
+BLACK = 0
+BLUE = 1
+PURPLE = 2
+DARK_GREEN = 3
+BROWN = 4
+GREY = 5
+LIGHT_GREY = 6
+WHITE = 7
+RED = 8
+ORANGE = 9
+YELLOW = 10
+GREEN = 11
+CYAN = 12
+LIGHT_PURPLE = 13
+PINK = 14
+FLESH = 15
+
+# Sound channels
+CHAN_FIRE = 0
+CHAN_DESTROY = 2
+CHAN_SPAWN = 1

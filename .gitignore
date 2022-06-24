@@ -1,0 +1,16 @@
+### Python ###
+__pycache__/
+
+# branding
+*.ase
+*.col
+
+# Distribution
+app/
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Staff
+memo.md
